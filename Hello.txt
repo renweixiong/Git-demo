@@ -2,6 +2,10 @@ Hello World 22222222222
 Hello World 33333333333
 Hello World 44444444444
 Hello World
+<<<<<<< HEAD
 Hello World master test
-Hello World 
+
+====
+Hello World hot-fix test
+>>>>>>> hot-fix
 
